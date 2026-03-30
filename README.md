@@ -8,15 +8,6 @@ The application is designed with a **retro CRT terminal interface** and runs ent
 
 ---
 
-## ⚠️ Core Constraint
-
-This project does **NOT use any paid AI services**.
-
-All AI processing is performed locally:
-
-- **Text Generation:** Ollama (Llama 3 / Mistral) → http://localhost:11434
-- **Image Generation:** Stable Diffusion (Automatic1111) → http://127.0.0.1:7860
-
 ---
 
 ## 🚀 Features
