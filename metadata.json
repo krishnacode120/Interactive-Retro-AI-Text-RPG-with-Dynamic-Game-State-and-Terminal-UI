@@ -1,0 +1,5 @@
+{
+  "name": "Infinite RPG",
+  "description": "An infinite, procedurally generated Text-RPG powered by Gemini.",
+  "requestFramePermissions": []
+}
